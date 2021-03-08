@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Coocker": {
+      "commandName": "Project",
+      "commandLineArgs": "/Mass"
+    }
+  }
+}

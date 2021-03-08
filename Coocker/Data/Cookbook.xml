@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Cookbook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipes>
+    <Dish>
+      <Name>Coocked Rice</Name>
+      <Ingredients>
+        <Ingredient>
+          <Name>Rice</Name>
+          <Amount>1</Amount>
+        </Ingredient>
+        <Ingredient>
+          <Name>Water</Name>
+          <Amount>1</Amount>
+        </Ingredient>
+        <Ingredient>
+          <Name>Salt</Name>
+          <Amount>1</Amount>
+        </Ingredient>
+      </Ingredients>
+      <Weight>330</Weight>
+      <Calories>1220</Calories>
+    </Dish>
+    <Dish>
+      <Name>Boiled Potato</Name>
+      <Ingredients>
+        <Ingredient>
+          <Name>Potato</Name>
+          <Amount>4</Amount>
+        </Ingredient>
+        <Ingredient>
+          <Name>Water</Name>
+          <Amount>2</Amount>
+        </Ingredient>
+      </Ingredients>
+      <Weight>4000</Weight>
+      <Calories>1120</Calories>
+    </Dish>
+  </Recipes>
+</Cookbook>
